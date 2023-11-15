@@ -1,0 +1,67 @@
+[
+  {
+    "title": "Home & Kitchen",
+    "categories": [
+      "Home Appliances",
+      "Kitchen & Dining",
+      "Home Decor",
+      "Home furniture",
+      "Bedding",
+      "Storage & Organization",
+      "HouseKeeping & Cleaning Tools",
+      "Pet Supplies ",
+      "Bath"
+    ],
+    "image": [
+      "https://www.ishtari.com/image/data/system_banner/10000/600/519/home-appliances.png",
+      "https://www.ishtari.com/image/data/system_banner/10000/600/521/kitchen-and-diningg.png",
+      "https://www.ishtari.com/image/data/system_banner/10000/600/522/home-decor.png",
+      "https://www.ishtari.com/image/data/system_banner/10000/200/520/home-furniture.png"
+    ]
+  },
+  {
+    "title": "Electronics",
+    "categories": [
+      "Pc & Laptop",
+      "Smart Watches & Accessories",
+      "Power Banks",
+      "Chargers & Cables",
+      "Earphones & Headphones",
+      "Cover, Lens & Screen Protectors",
+      "Mobiles & Tablets",
+      "Smart Gadgets",
+      "Home Audio & Theater",
+      "Landline Phones"
+    ],
+    "image": [
+      "https://www.ishtari.com/image/data/system_banner/10000/600/523/camerass.png",
+      "https://www.ishtari.com/image/data/system_banner/10000/600/524/power-banks.png",
+      "https://www.ishtari.com/image/data/system_banner/10000/600/525/earphoness.png"
+    ]
+  },
+  {
+    "title": "Fashion",
+    "categories": ["Clothing", "Shoes", "Bags", "Accessories", "Jewelry"],
+    "image": [
+      "https://www.ishtari.com/image/data/system_banner/10000/600/566/clothing.png",
+      "https://www.ishtari.com/image/data/system_banner/10000/600/565/shoes.png",
+      "https://www.ishtari.com/image/data/system_banner/10000/600/567/bags.png"
+    ]
+  },
+  {
+    "title": "Health & Beauty",
+    "categories": [
+      "Makeup",
+      "Perfumes",
+      "Personal Care",
+      "Bath & Body",
+      "Health Care",
+      "Bundles & Sets"
+    ],
+    "image": [
+      "https://www.ishtari.com/image/data/system_banner/10000/600/562/personal-care.png",
+      "https://www.ishtari.com/image/data/system_banner/10000/600/563/makeupp.png",
+      "https://www.ishtari.com/image/data/system_banner/10000/600/564/perfumess.png"
+    ]
+  }
+]
